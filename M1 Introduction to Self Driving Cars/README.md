@@ -5,4 +5,7 @@
 - Requirement for Perception
 - Driving Decision and Actions
 
-## Week Two:
+## Week Two: Hardware and Software
+- Sensors and Computing Hardware
+- Hardware Configuration Design
+- Software Architecture
