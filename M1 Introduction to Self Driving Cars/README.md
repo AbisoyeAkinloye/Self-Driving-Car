@@ -19,3 +19,10 @@
 ## Week 4: Vehicle Modeling
 - Kinematic Modellng in 2D
 - Kinematic Bicycle Model
+- Dynamic Modeling in 2D
+- Longitudinal Vehicle Modeling
+- Lateral Dynamics of Bicycle Model
+- Vehicle Actuation
+- Tire Slip and Modeling
+
+## Week 5: Vehicle Longitudinal Control
