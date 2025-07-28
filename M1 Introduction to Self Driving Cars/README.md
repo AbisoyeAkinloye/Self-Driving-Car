@@ -26,3 +26,6 @@
 - Tire Slip and Modeling
 
 ## Week 5: Vehicle Longitudinal Control
+- PID Controller
+- Speed Control with PID
+- Feedforward Speed Control
