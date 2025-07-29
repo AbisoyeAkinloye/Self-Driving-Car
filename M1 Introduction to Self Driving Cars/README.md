@@ -29,3 +29,9 @@
 - PID Controller
 - Speed Control with PID
 - Feedforward Speed Control
+
+## Week 6: Vehicle Lateral Control
+- Introduction to Lateral Vehicle Control
+- Pure Pursuit Geometric Lateral Control
+- Stanley Controller
+- Advanced Steering Control - MPC
