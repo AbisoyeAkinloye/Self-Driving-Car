@@ -35,3 +35,7 @@
 - Pure Pursuit Geometric Lateral Control
 - Stanley Controller
 - Advanced Steering Control - MPC
+
+## Week 7: Self Driving Car Simulation
+- Installation of Carla
+- Simulation
